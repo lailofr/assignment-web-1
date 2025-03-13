@@ -11,7 +11,7 @@ header {
     background-color: #a257e0;
     padding: 15px 0;
     text-align: center;
-    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 2px 4px 8px rgb(203, 7, 252);
 }
 
 header nav ul {
@@ -65,7 +65,7 @@ img {
     display: block;
     margin: 20px auto;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgb(203, 7, 252);
 }
 
 footer {
@@ -75,14 +75,14 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    box-shadow: 0 4px 8px rgb(203, 7, 252);
 }
-
 
 input[type="text"] {
     width: 80%;
     padding: 10px;
     margin: 20px auto;
     display: block;;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgb(203, 7, 252);
 }
 
