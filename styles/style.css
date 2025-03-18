@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #a257e0;
+    background-color: #7b18cc;
     padding: 15px 0;
     text-align: center;
     box-shadow: 2px 4px 8px rgb(203, 7, 252);
@@ -70,20 +70,27 @@ img {
 }
 
 footer {
-    background-color: #a257e0;
+    background-color: #7b18cc;
     text-align: center;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
+    padding: 25px;
+    color: rgb(236, 213, 245);
+    position: sticky;
+  margin-top: 7.5%;
     width: 100%;
     box-shadow: 0 4px 8px rgb(203, 7, 252);
+    bottom: 0%;
 }
 
 input[type="text"] {
     width: 80%;
     padding: 10px;
     margin: 20px auto;
+    color: #333;
     display: block;
-    ;
     box-shadow: 0 2px 4px rgb(203, 7, 252);
+}
+table {
+    width: 80%;  
+    margin: 0 auto;  
+    border-collapse: collapse;  
 }
